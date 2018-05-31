@@ -9,7 +9,7 @@ selector {
 */
 
 /* Type selecter*/
-p{ /*select all <p> */
+p { 
   font-size: 1em; 
   line-height: 1.5em;
 }
@@ -22,6 +22,13 @@ figcaption {
   font: normal 0.75em/1.5em "Elsie Swash Caps", cursive;
   color: #777;
   text-align: right;
+}
+
+/* Class selector */
+.milk-text {
+  font: bold 2.6em "Elsie Swash Caps", cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000000;
 }
 
 
